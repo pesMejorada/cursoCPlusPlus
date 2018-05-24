@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527193347 source:c:\users\tarde\desktop\pr\ej016_clases_usando_codebolcsk\main.cpp
+	<iostream>
+	"Estudiante.h"
+
+1527193635 c:\users\tarde\desktop\pr\ej016_clases_usando_codebolcsk\include\estudiante.h
+	<string>
+
+1527193088 source:c:\users\tarde\desktop\pr\ej016_clases_usando_codebolcsk\src\estudiante.cpp
+	"Estudiante.h"
+

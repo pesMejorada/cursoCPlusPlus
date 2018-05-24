@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527105306 source:c:\users\tarde\desktop\pr\ej014_clases_compsiicon_prueba\src\ordenador.cpp
+	"Ordenador.h"
+
+1527104966 c:\users\tarde\desktop\pr\ej014_clases_compsiicon_prueba\include\ordenador.h
+	<iostream>
+
