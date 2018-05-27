@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526932196 source:c:\users\tarde\desktop\curso c++\ejercicios\ejercicio008_punterosarrays\main.cpp
+	<iostream>
+
+1527380426 source:e:\curso c++\ejercicios\ejercicio008_punterosarrays\main.cpp
+	<iostream>
+	<math.h>
+

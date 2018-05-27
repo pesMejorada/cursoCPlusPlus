@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1527428650 source:e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\main.cpp
+	<iostream>
+	<Deportista.h>
+	<Empleado.H>
+	<Persona.H>
+	<Print.H>
+
+1527426246 source:e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\src\persona.cpp
+	"Persona.h"
+
+1527426302 e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\include\persona.h
+	<iostream>
+
+1527426734 source:e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\src\deportista.cpp
+	"Deportista.h"
+
+1527426670 e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\include\deportista.h
+	<iostream>
+
+1527427982 source:e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\src\empleado.cpp
+	"Empleado.h"
+
+1527428124 e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\include\empleado.h
+	<iostream>
+	<Persona.h>
+	<Deportista.h>
+
+1527428428 source:e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\src\print.cpp
+	"Print.h"
+
+1527428464 e:\curso c++\ejercicios\ejercicio0016_clasesusandoasistentecodeblock\include\print.h
+	"Empleado.H"
+
