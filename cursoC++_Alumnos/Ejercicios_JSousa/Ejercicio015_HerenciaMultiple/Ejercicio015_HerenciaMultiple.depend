@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527425776 source:e:\curso c++\ejercicios\ejercicio015_herenciamultiple\main.cpp
+	<iostream>
+	<string.h>
+
