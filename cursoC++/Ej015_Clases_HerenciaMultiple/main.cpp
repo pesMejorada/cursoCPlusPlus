@@ -11,7 +11,7 @@ public:
         this->nombre= nombre;
         this->dni = dni;
     }
-    ~Persona() { }
+    virtual ~Persona() { }
     string getNombre() {
         return nombre;
     }
@@ -37,7 +37,7 @@ public:
     Deportista(string deporte){
         this->deporte = deporte;
     }
-    ~Deportista() {}
+    virtual ~Deportista() {}
     string getDeporte() { return deporte;}
     void setDeporte(string deporte){
         this->deporte = deporte;

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1527535288 source:c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\main.cpp
+	<iostream>
+	<Padre.h>
+	<Hijo.h>
+	<Factoria.h>
+
+1527533256 source:c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\src\padre.cpp
+	"Padre.h"
+
+1527533475 c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\include\padre.h
+	<string>
+
+1527533528 source:c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\src\hijo.cpp
+	"Hijo.h"
+
+1527534168 c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\include\hijo.h
+
+1527534738 source:c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\src\factoria.cpp
+
+1527535181 c:\users\tarde\desktop\pr\ej019_template_fabrica_de_objetos\include\factoria.h
+

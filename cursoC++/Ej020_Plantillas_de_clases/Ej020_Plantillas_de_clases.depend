@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1527538114 source:c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\main.cpp
+	<iostream>
+	<Lista.h>
+	<Padre.h>
+
+1527538676 source:c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\src\lista.cpp
+	"Lista.h"
+
+1527538801 c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\include\lista.h
+
+1527538860 c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\include\padre.h
+
+1527538860 source:c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\src\padre.cpp
+	"Padre.h"
+
+1527539478 source:c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\src\arraylista.cpp
+	"ArrayLista.h"
+
+1527539552 c:\users\tarde\desktop\pr\ej020_plantillas_de_clases\include\arraylista.h
+	<Lista.h>
+
